@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wispher-flow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wispher_flow_jar</output-path>
+    <root id="archive" name="wispher-flow.jar">
+      <element id="module-output" name="wispher-flow" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/kwhat/jnativehook/2.2.2/jnativehook-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/1.7.36/slf4j-simple-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alphacephei/vosk/0.3.38/vosk-0.3.38.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
